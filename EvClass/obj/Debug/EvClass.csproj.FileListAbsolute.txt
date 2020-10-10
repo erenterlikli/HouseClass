@@ -1,0 +1,11 @@
+C:\Users\Eren\source\repos\EvClass\EvClass\bin\Debug\EvClass.exe.config
+C:\Users\Eren\source\repos\EvClass\EvClass\bin\Debug\EvClass.exe
+C:\Users\Eren\source\repos\EvClass\EvClass\bin\Debug\EvClass.pdb
+C:\Users\Eren\source\repos\EvClass\EvClass\obj\Debug\EvClass.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\EvClass\EvClass\obj\Debug\EvClass.Form1.resources
+C:\Users\Eren\source\repos\EvClass\EvClass\obj\Debug\EvClass.Properties.Resources.resources
+C:\Users\Eren\source\repos\EvClass\EvClass\obj\Debug\EvClass.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\EvClass\EvClass\obj\Debug\EvClass.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\EvClass\EvClass\obj\Debug\EvClass.exe
+C:\Users\Eren\source\repos\EvClass\EvClass\obj\Debug\EvClass.pdb
+C:\Users\Eren\source\repos\EvClass\EvClass\obj\Debug\EvClass.Form2.resources
